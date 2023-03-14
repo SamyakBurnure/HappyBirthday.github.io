@@ -234,7 +234,7 @@ body {
     position: absolute;
     width: 120px;
     height: 130px;
-    background: #66ccff;
+    background: #BA2C24;
     bottom: -38px;
     left: 50%;
     transform: translateX(-50%);
@@ -452,7 +452,7 @@ body {
 }
 
 .beltb {
-    background-color: #66ccff;
+    background-color: #B788D6;
     height: 55px;
     width: 110px;
     border-top-left-radius: 70px;
@@ -555,7 +555,7 @@ body {
 }
 
 .dressb {
-    background-color: #66ccff;
+    background-color: #FFEE65;
     width: 120px;
     height: 130px;
     border-radius: 35px 35px 0px 0px;
