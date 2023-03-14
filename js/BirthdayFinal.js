@@ -1,7 +1,7 @@
 let chain = document.getElementById('chain')
 chain.addEventListener('click',musicPlay);
 function musicPlay(){
-let audio = new Audio("chainSong.m4a");
+let audio = new Audio("chain.mp3");
 audio.play();
 document.getElementById("playM").style.display = 'none';
 let stars = document.getElementById('stars');
@@ -45,7 +45,7 @@ five.style.animationDuration = "2.5s";
 six.style.animationDuration = "3s";
 seven.style.animationDuration = "1.75s";
 eight.style.animationDuration = "1.25s";
-nine.style.animationDuration = "2.25s";
+nine.style.animationDuration = "1.5s";
 ten.style.animationDuration = "2.25s";
 }
 
