@@ -37,10 +37,10 @@ you asks me n find something what makes you happy seeing you smile keeping you h
                     thank you for loving me so much❤️
 
                                      safar-e-zindagi me
-                                     Manzil Tum Ho ! `
+                                     Manzil Ho Tum ! `
 
 let s2 = `
-I know we haven't met yet our first meet will be something exicitatory thing I'm waiting for it will again give me butterflies
+I know we haven't met yet, our first meet will be something exicitatory thing I'm waiting for it will again give me butterflies
 there is beautiful journey waiting for us that we both have to travel...nd I'm excited to share my life with you...
 I love you more than anything in this entire world...
 
